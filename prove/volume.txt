@@ -1,0 +1,30 @@
+2023-04-18, 205, 60, 15, 39.92
+A '205/60R15' tire price is: R2359
+Order made
+***Phone Number: 0783410741
+
+2023-04-18, 155, 80, 12, 25.89
+A '155/80R12' tire price is: R1099
+Order rejected
+
+2023-04-18, 205, 60, 15, 39.92
+A '205/60R15' tire price is: R2359
+Order rejected
+
+2023-04-18, 155, 70, 13, 23.18
+A '155/70R13' tire price is : R799
+Order made
+***Phone Number: 465465454
+
+2023-04-18, 165, 65, 14, 25.73
+A '165/65R14' tire price is: R999
+Order rejected
+
+2023-04-18, 155, 70, 13, 23.18
+A '155/70R13' tire price is : R799
+Order made
+***Phone Number: 165454654
+
+2023-04-18, 155, 80, 12, 25.89
+A '155/80R12' tire price is: R1099
+error
